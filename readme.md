@@ -5,5 +5,5 @@ Simple TS script to sync all deployments with the name of "Staging" to the laste
 ## Getting it running
 
 ```shell
-npm install && npm build && node .
+npm install && npm run build && node .
 ```
